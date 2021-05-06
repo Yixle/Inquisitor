@@ -1,0 +1,11 @@
+These programs are needed for Inquisitor to work, install them with your packet manager of choice
+
+List:
+nslookup
+Dmitry
+Dnswalk
+Nmap
+Nikto
+ClamScan
+Chkrootkit
+Lynis
